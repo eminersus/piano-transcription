@@ -5,3 +5,5 @@ numpy
 matplotlib
 opencv-python
 mediapipe
+scikit-learn
+ffmpeg-python
