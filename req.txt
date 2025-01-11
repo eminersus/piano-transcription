@@ -1,0 +1,7 @@
+pytube
+requests
+pandas
+numpy
+matplotlib
+opencv-python
+mediapipe
