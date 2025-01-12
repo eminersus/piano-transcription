@@ -1,0 +1,5200 @@
+{
+    "duration": 121.852,
+    "notes_held": [
+        {
+            "timestamp": 0.111,
+            "notes_held": [
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 0.127,
+            "notes_held": [
+                "B4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 0.517,
+            "notes_held": [
+                "B4",
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 0.521,
+            "notes_held": [
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 0.839,
+            "notes_held": [
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 0.863,
+            "notes_held": [
+                "D4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 1.224,
+            "notes_held": [
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 1.228,
+            "notes_held": []
+        },
+        {
+            "timestamp": 1.237,
+            "notes_held": [
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 1.248,
+            "notes_held": [
+                "B3",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 1.608,
+            "notes_held": [
+                "B3",
+                "B4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 1.625,
+            "notes_held": [
+                "B3",
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 1.965,
+            "notes_held": [
+                "B3"
+            ]
+        },
+        {
+            "timestamp": 1.98,
+            "notes_held": [
+                "B3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 2.346,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 2.353,
+            "notes_held": []
+        },
+        {
+            "timestamp": 2.359,
+            "notes_held": [
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 2.385,
+            "notes_held": [
+                "E4",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 2.793,
+            "notes_held": [
+                "C5",
+                "E4",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 2.796,
+            "notes_held": [
+                "C5",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 3.195,
+            "notes_held": [
+                "C5",
+                "E4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 3.199,
+            "notes_held": [
+                "E4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 3.589,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 3.598,
+            "notes_held": [
+                "E5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 3.613,
+            "notes_held": [
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 3.621,
+            "notes_held": [
+                "C4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 4.006,
+            "notes_held": [
+                "C4",
+                "C5",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 4.025,
+            "notes_held": [
+                "C4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 4.418,
+            "notes_held": [
+                "C4"
+            ]
+        },
+        {
+            "timestamp": 4.431,
+            "notes_held": [
+                "C4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 4.801,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 4.815,
+            "notes_held": []
+        },
+        {
+            "timestamp": 4.822,
+            "notes_held": [
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 4.841,
+            "notes_held": [
+                "B3",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 5.24,
+            "notes_held": [
+                "B3",
+                "B4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 5.253,
+            "notes_held": [
+                "B3",
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 5.65,
+            "notes_held": [
+                "B3"
+            ]
+        },
+        {
+            "timestamp": 5.69,
+            "notes_held": [
+                "B3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 6.119,
+            "notes_held": [
+                "B3"
+            ]
+        },
+        {
+            "timestamp": 6.127,
+            "notes_held": []
+        },
+        {
+            "timestamp": 6.129,
+            "notes_held": [
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 6.163,
+            "notes_held": [
+                "B4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 6.559,
+            "notes_held": [
+                "B4",
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 6.612,
+            "notes_held": [
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 6.977,
+            "notes_held": [
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 6.995,
+            "notes_held": [
+                "D4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 7.47,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 7.473,
+            "notes_held": [
+                "D4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 7.474,
+            "notes_held": [
+                "D4",
+                "E3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 7.499,
+            "notes_held": [
+                "E3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 7.98,
+            "notes_held": [
+                "E3",
+                "E4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 8.187,
+            "notes_held": [
+                "E3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 8.42,
+            "notes_held": [
+                "B3",
+                "E3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 8.427,
+            "notes_held": [
+                "B3",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 8.861,
+            "notes_held": [
+                "B3",
+                "D3",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 8.863,
+            "notes_held": [
+                "A4",
+                "B3",
+                "D3",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 8.872,
+            "notes_held": [
+                "A4",
+                "D3",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 8.881,
+            "notes_held": [
+                "A4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 9.299,
+            "notes_held": [
+                "A4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 9.312,
+            "notes_held": [
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 9.694,
+            "notes_held": [
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 9.7,
+            "notes_held": [
+                "C4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 9.725,
+            "notes_held": [
+                "C4"
+            ]
+        },
+        {
+            "timestamp": 10.136,
+            "notes_held": [
+                "B4",
+                "C4"
+            ]
+        },
+        {
+            "timestamp": 10.148,
+            "notes_held": [
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 10.169,
+            "notes_held": [
+                "B4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 10.548,
+            "notes_held": [
+                "B4",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 10.555,
+            "notes_held": [
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 10.943,
+            "notes_held": [
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 10.961,
+            "notes_held": [
+                "D4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 11.348,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 11.374,
+            "notes_held": [
+                "B2",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 11.376,
+            "notes_held": [
+                "B2",
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 11.396,
+            "notes_held": [
+                "B2",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 11.794,
+            "notes_held": [
+                "B2",
+                "D5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 11.799,
+            "notes_held": [
+                "B2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 12.202,
+            "notes_held": [
+                "B2"
+            ]
+        },
+        {
+            "timestamp": 12.211,
+            "notes_held": [
+                "B2",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 12.627,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 12.634,
+            "notes_held": [
+                "A4",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 12.636,
+            "notes_held": [
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 12.65,
+            "notes_held": [
+                "A4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 13.063,
+            "notes_held": [
+                "A4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 13.474,
+            "notes_held": [
+                "A4",
+                "D3",
+                "D4",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 13.479,
+            "notes_held": [
+                "A4",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 13.939,
+            "notes_held": [
+                "A4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 14.363,
+            "notes_held": [
+                "A4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 14.784,
+            "notes_held": [
+                "A4",
+                "D3",
+                "D4",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 14.792,
+            "notes_held": [
+                "A4",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 14.819,
+            "notes_held": [
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 15.229,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 15.231,
+            "notes_held": [
+                "B4",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 15.243,
+            "notes_held": [
+                "B4",
+                "D4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 15.256,
+            "notes_held": [
+                "B4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 15.642,
+            "notes_held": [
+                "B4",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 15.647,
+            "notes_held": [
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 16.036,
+            "notes_held": [
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 16.039,
+            "notes_held": [
+                "D4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 16.485,
+            "notes_held": [
+                "D4",
+                "D5",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 16.513,
+            "notes_held": [
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 16.521,
+            "notes_held": [
+                "B2",
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 16.558,
+            "notes_held": [
+                "B2",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 16.871,
+            "notes_held": [
+                "B2",
+                "D5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 16.879,
+            "notes_held": [
+                "B2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 17.298,
+            "notes_held": [
+                "B2",
+                "D4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 17.301,
+            "notes_held": [
+                "B2",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 17.713,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 17.726,
+            "notes_held": [
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 17.727,
+            "notes_held": [
+                "A4",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 17.729,
+            "notes_held": [
+                "A4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 18.166,
+            "notes_held": [
+                "A4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 18.211,
+            "notes_held": [
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 18.553,
+            "notes_held": [
+                "D3",
+                "D4",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 18.58,
+            "notes_held": [
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 18.984,
+            "notes_held": [
+                "B2",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 18.991,
+            "notes_held": [
+                "B2",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 19.0,
+            "notes_held": [
+                "B2",
+                "B4",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 19.024,
+            "notes_held": [
+                "B2",
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 19.428,
+            "notes_held": [
+                "B2",
+                "B4",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 19.443,
+            "notes_held": [
+                "B2",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 19.856,
+            "notes_held": [
+                "B2",
+                "D4",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 19.887,
+            "notes_held": [
+                "B2",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 20.287,
+            "notes_held": [
+                "B2",
+                "C5",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 20.301,
+            "notes_held": [
+                "C5",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 20.311,
+            "notes_held": [
+                "A2",
+                "C5",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 20.317,
+            "notes_held": [
+                "A2",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 20.702,
+            "notes_held": [
+                "A2",
+                "A4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 20.704,
+            "notes_held": [
+                "A2",
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 21.065,
+            "notes_held": [
+                "A2"
+            ]
+        },
+        {
+            "timestamp": 21.091,
+            "notes_held": [
+                "A2",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 21.516,
+            "notes_held": [
+                "A2",
+                "E4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 21.533,
+            "notes_held": [
+                "A2",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 21.944,
+            "notes_held": [
+                "A2",
+                "C5",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 21.976,
+            "notes_held": [
+                "A2",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 22.341,
+            "notes_held": [
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 22.386,
+            "notes_held": []
+        },
+        {
+            "timestamp": 22.397,
+            "notes_held": [
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 22.81,
+            "notes_held": [
+                "A4",
+                "A5"
+            ]
+        },
+        {
+            "timestamp": 22.826,
+            "notes_held": [
+                "A5"
+            ]
+        },
+        {
+            "timestamp": 22.835,
+            "notes_held": [
+                "A5",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 23.235,
+            "notes_held": [
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 23.247,
+            "notes_held": [
+                "D5",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 23.652,
+            "notes_held": [
+                "A4",
+                "D5",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 23.658,
+            "notes_held": [
+                "A4",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 24.087,
+            "notes_held": [
+                "A4",
+                "F4",
+                "F5"
+            ]
+        },
+        {
+            "timestamp": 24.093,
+            "notes_held": [
+                "A4",
+                "D4",
+                "F4",
+                "F5"
+            ]
+        },
+        {
+            "timestamp": 24.105,
+            "notes_held": [
+                "A4",
+                "D4",
+                "F5"
+            ]
+        },
+        {
+            "timestamp": 24.108,
+            "notes_held": [
+                "D4",
+                "F5"
+            ]
+        },
+        {
+            "timestamp": 24.494,
+            "notes_held": [
+                "D4",
+                "D5",
+                "F5"
+            ]
+        },
+        {
+            "timestamp": 24.52,
+            "notes_held": [
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 24.946,
+            "notes_held": [
+                "A4",
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 24.954,
+            "notes_held": [
+                "A4",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 25.339,
+            "notes_held": [
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 25.358,
+            "notes_held": [
+                "A4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 25.374,
+            "notes_held": [
+                "A4",
+                "C4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 25.394,
+            "notes_held": [
+                "C4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 25.784,
+            "notes_held": [
+                "C4",
+                "C5",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 25.821,
+            "notes_held": [
+                "C4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 26.223,
+            "notes_held": [
+                "A4",
+                "C4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 26.229,
+            "notes_held": [
+                "A4",
+                "C4"
+            ]
+        },
+        {
+            "timestamp": 26.647,
+            "notes_held": [
+                "C4"
+            ]
+        },
+        {
+            "timestamp": 26.667,
+            "notes_held": []
+        },
+        {
+            "timestamp": 26.668,
+            "notes_held": [
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 26.678,
+            "notes_held": [
+                "A3",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 27.161,
+            "notes_held": [
+                "A3",
+                "A4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 27.204,
+            "notes_held": [
+                "A3",
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 27.602,
+            "notes_held": [
+                "A3",
+                "A4",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 27.622,
+            "notes_held": [
+                "A3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 28.025,
+            "notes_held": [
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 28.051,
+            "notes_held": [
+                "E4",
+                "F3"
+            ]
+        },
+        {
+            "timestamp": 28.052,
+            "notes_held": [
+                "A4",
+                "E4",
+                "F3"
+            ]
+        },
+        {
+            "timestamp": 28.071,
+            "notes_held": [
+                "A4",
+                "F3"
+            ]
+        },
+        {
+            "timestamp": 28.471,
+            "notes_held": [
+                "F3"
+            ]
+        },
+        {
+            "timestamp": 28.477,
+            "notes_held": [
+                "F3",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 28.891,
+            "notes_held": [
+                "C4",
+                "F3",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 28.929,
+            "notes_held": [
+                "C4",
+                "F3"
+            ]
+        },
+        {
+            "timestamp": 29.308,
+            "notes_held": [
+                "B4",
+                "C4",
+                "F3"
+            ]
+        },
+        {
+            "timestamp": 29.31,
+            "notes_held": [
+                "B4",
+                "C4"
+            ]
+        },
+        {
+            "timestamp": 29.316,
+            "notes_held": [
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 29.327,
+            "notes_held": [
+                "B4",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 29.716,
+            "notes_held": [
+                "B4",
+                "E3",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 29.753,
+            "notes_held": [
+                "E3",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 30.135,
+            "notes_held": [
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 30.161,
+            "notes_held": []
+        },
+        {
+            "timestamp": 30.165,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 30.619,
+            "notes_held": [
+                "A2",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 30.629,
+            "notes_held": [
+                "A2",
+                "C5",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 30.661,
+            "notes_held": [
+                "A2",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 31.08,
+            "notes_held": [
+                "A2",
+                "A4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 31.091,
+            "notes_held": [
+                "A2",
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 31.526,
+            "notes_held": [
+                "A2"
+            ]
+        },
+        {
+            "timestamp": 31.552,
+            "notes_held": [
+                "A2",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 31.978,
+            "notes_held": [
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 31.985,
+            "notes_held": [
+                "E4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 32.014,
+            "notes_held": [
+                "C3",
+                "E4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 32.023,
+            "notes_held": [
+                "C3",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 32.386,
+            "notes_held": [
+                "C3"
+            ]
+        },
+        {
+            "timestamp": 32.404,
+            "notes_held": [
+                "A4",
+                "C3"
+            ]
+        },
+        {
+            "timestamp": 32.814,
+            "notes_held": [
+                "C3"
+            ]
+        },
+        {
+            "timestamp": 32.818,
+            "notes_held": [
+                "C3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 33.242,
+            "notes_held": [
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 33.255,
+            "notes_held": [
+                "D3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 33.261,
+            "notes_held": [
+                "A4",
+                "D3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 33.285,
+            "notes_held": [
+                "A4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 33.694,
+            "notes_held": [
+                "A4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 33.707,
+            "notes_held": [
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 34.116,
+            "notes_held": [
+                "C4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 34.117,
+            "notes_held": [
+                "C4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 34.566,
+            "notes_held": [
+                "B4",
+                "C4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 34.637,
+            "notes_held": [
+                "B4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 35.015,
+            "notes_held": [
+                "B4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 35.031,
+            "notes_held": [
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 35.442,
+            "notes_held": [
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 35.449,
+            "notes_held": [
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 35.871,
+            "notes_held": [
+                "D3",
+                "D4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 35.88,
+            "notes_held": [
+                "D3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 35.929,
+            "notes_held": [
+                "D3",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 36.012,
+            "notes_held": [
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 36.322,
+            "notes_held": [
+                "D4",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 36.754,
+            "notes_held": [
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 36.768,
+            "notes_held": [
+                "B3",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 37.147,
+            "notes_held": [
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 37.189,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 37.212,
+            "notes_held": [
+                "C2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 37.621,
+            "notes_held": [
+                "C2",
+                "E4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 38.029,
+            "notes_held": [
+                "C2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 38.039,
+            "notes_held": [
+                "C2",
+                "C4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 38.454,
+            "notes_held": [
+                "C2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 38.456,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 38.48,
+            "notes_held": [
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 38.882,
+            "notes_held": [
+                "D4",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 39.324,
+            "notes_held": [
+                "B3",
+                "D4",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 39.34,
+            "notes_held": [
+                "B3",
+                "D4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 39.363,
+            "notes_held": [
+                "B3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 39.811,
+            "notes_held": [
+                "B3",
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 39.865,
+            "notes_held": [
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 40.17,
+            "notes_held": [
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 40.864,
+            "notes_held": []
+        },
+        {
+            "timestamp": 40.938,
+            "notes_held": [
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 40.952,
+            "notes_held": [
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 41.388,
+            "notes_held": [
+                "D3",
+                "D4",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 41.416,
+            "notes_held": [
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 41.795,
+            "notes_held": [
+                "A3",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 41.797,
+            "notes_held": [
+                "A3",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 41.85,
+            "notes_held": [
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 42.237,
+            "notes_held": [
+                "D3",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 42.249,
+            "notes_held": [
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 42.256,
+            "notes_held": [
+                "A4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 42.655,
+            "notes_held": [
+                "A4",
+                "D4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 42.667,
+            "notes_held": [
+                "D4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 43.062,
+            "notes_held": [
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 43.074,
+            "notes_held": [
+                "A3",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 43.451,
+            "notes_held": [
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 43.489,
+            "notes_held": [
+                "F#3",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 43.497,
+            "notes_held": [
+                "B4",
+                "F#3",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 43.5,
+            "notes_held": [
+                "B4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 43.939,
+            "notes_held": [
+                "B4",
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 43.947,
+            "notes_held": [
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 44.318,
+            "notes_held": [
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 44.349,
+            "notes_held": [
+                "D4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 44.766,
+            "notes_held": [
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 44.809,
+            "notes_held": [
+                "E5",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 44.813,
+            "notes_held": [
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 44.818,
+            "notes_held": [
+                "E3",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 45.262,
+            "notes_held": [
+                "B4",
+                "E3",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 45.273,
+            "notes_held": [
+                "B4",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 45.648,
+            "notes_held": [
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 45.664,
+            "notes_held": [
+                "E3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 46.067,
+            "notes_held": [
+                "A3",
+                "E3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 46.069,
+            "notes_held": [
+                "A3",
+                "D5",
+                "E3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 46.099,
+            "notes_held": [
+                "A3",
+                "D5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 46.122,
+            "notes_held": [
+                "A3",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 46.5,
+            "notes_held": [
+                "A3",
+                "A4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 46.539,
+            "notes_held": [
+                "A3",
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 46.905,
+            "notes_held": [
+                "A3",
+                "A4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 46.943,
+            "notes_held": [
+                "A3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 47.303,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 47.308,
+            "notes_held": [
+                "A2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 47.341,
+            "notes_held": [
+                "A2",
+                "C#5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 47.391,
+            "notes_held": [
+                "A2",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 47.753,
+            "notes_held": [
+                "A2",
+                "A4",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 48.136,
+            "notes_held": [
+                "A2",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 48.149,
+            "notes_held": [
+                "A2",
+                "C#5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 48.88,
+            "notes_held": [
+                "A2",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 49.086,
+            "notes_held": [
+                "A2",
+                "A4",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 49.513,
+            "notes_held": [
+                "A2",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 49.515,
+            "notes_held": [
+                "A2",
+                "C#5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 49.53,
+            "notes_held": [
+                "A2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 49.891,
+            "notes_held": [
+                "A2",
+                "C#5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 49.922,
+            "notes_held": [
+                "A2",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 49.934,
+            "notes_held": [
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 49.94,
+            "notes_held": [
+                "B2",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 50.061,
+            "notes_held": [
+                "B2",
+                "B4",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 50.088,
+            "notes_held": [
+                "B2",
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 50.485,
+            "notes_held": [
+                "B2",
+                "B4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 50.498,
+            "notes_held": [
+                "B2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 50.889,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 50.904,
+            "notes_held": []
+        },
+        {
+            "timestamp": 50.923,
+            "notes_held": [
+                "C#3"
+            ]
+        },
+        {
+            "timestamp": 50.93,
+            "notes_held": [
+                "C#3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 50.955,
+            "notes_held": [
+                "A4",
+                "C#3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 51.408,
+            "notes_held": [
+                "A4",
+                "C#3"
+            ]
+        },
+        {
+            "timestamp": 51.41,
+            "notes_held": [
+                "A4",
+                "C#3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 51.417,
+            "notes_held": [
+                "A4",
+                "C#3",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 51.437,
+            "notes_held": [
+                "C#3",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 51.439,
+            "notes_held": [
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 51.835,
+            "notes_held": [
+                "D3",
+                "D4",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 51.876,
+            "notes_held": [
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 52.194,
+            "notes_held": [
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 52.214,
+            "notes_held": [
+                "A3",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 52.642,
+            "notes_held": [
+                "A3",
+                "A4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 52.648,
+            "notes_held": [
+                "A3",
+                "A4",
+                "D3",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 52.661,
+            "notes_held": [
+                "A3",
+                "A4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 52.993,
+            "notes_held": [
+                "A4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 53.042,
+            "notes_held": [
+                "A4",
+                "F#3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 53.056,
+            "notes_held": [
+                "F#3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 53.449,
+            "notes_held": [
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 53.465,
+            "notes_held": [
+                "D4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 53.857,
+            "notes_held": [
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 53.861,
+            "notes_held": [
+                "B4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 53.863,
+            "notes_held": [
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 53.87,
+            "notes_held": [
+                "B4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 54.304,
+            "notes_held": [
+                "B4",
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 54.342,
+            "notes_held": [
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 54.747,
+            "notes_held": [
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 54.756,
+            "notes_held": [
+                "D4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 55.149,
+            "notes_held": [
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 55.192,
+            "notes_held": [
+                "E5",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 55.201,
+            "notes_held": [
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 55.219,
+            "notes_held": [
+                "E3",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 55.644,
+            "notes_held": [
+                "B4",
+                "E3",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 55.676,
+            "notes_held": [
+                "B4",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 56.018,
+            "notes_held": [
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 56.031,
+            "notes_held": [
+                "E3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 56.46,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 56.466,
+            "notes_held": [
+                "C#5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 56.471,
+            "notes_held": [
+                "A3",
+                "C#5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 56.472,
+            "notes_held": [
+                "A3",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 56.922,
+            "notes_held": [
+                "A3",
+                "A4",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 56.932,
+            "notes_held": [
+                "A3",
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 57.332,
+            "notes_held": [
+                "A3",
+                "A4",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 57.349,
+            "notes_held": [
+                "A3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 57.644,
+            "notes_held": [
+                "A3"
+            ]
+        },
+        {
+            "timestamp": 57.849,
+            "notes_held": [
+                "A3",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 57.853,
+            "notes_held": [
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 57.857,
+            "notes_held": [
+                "F#3",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 58.246,
+            "notes_held": [
+                "C#5",
+                "F#3",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 58.27,
+            "notes_held": [
+                "C#5",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 58.667,
+            "notes_held": [
+                "A4",
+                "C#5",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 58.671,
+            "notes_held": [
+                "A4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 59.094,
+            "notes_held": [
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 59.1,
+            "notes_held": []
+        },
+        {
+            "timestamp": 59.1,
+            "notes_held": [
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 59.113,
+            "notes_held": [
+                "B3",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 59.547,
+            "notes_held": [
+                "B3"
+            ]
+        },
+        {
+            "timestamp": 59.555,
+            "notes_held": [
+                "B3",
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 60.105,
+            "notes_held": [
+                "B3",
+                "B4",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 60.123,
+            "notes_held": [
+                "B3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 60.627,
+            "notes_held": [
+                "B3"
+            ]
+        },
+        {
+            "timestamp": 60.679,
+            "notes_held": [
+                "B3",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 60.69,
+            "notes_held": [
+                "B3",
+                "G3",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 60.692,
+            "notes_held": [
+                "G3",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 60.705,
+            "notes_held": [
+                "F5",
+                "G3",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 60.754,
+            "notes_held": [
+                "G3",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 61.136,
+            "notes_held": [
+                "D5",
+                "G3",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 61.165,
+            "notes_held": [
+                "D5",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 61.553,
+            "notes_held": [
+                "B4",
+                "D5",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 61.559,
+            "notes_held": [
+                "B4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 61.96,
+            "notes_held": [
+                "B4",
+                "C#4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 61.966,
+            "notes_held": [
+                "C#4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 61.974,
+            "notes_held": [
+                "C#4",
+                "E5",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 61.992,
+            "notes_held": [
+                "C#4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 62.409,
+            "notes_held": [
+                "C#4"
+            ]
+        },
+        {
+            "timestamp": 62.41,
+            "notes_held": [
+                "C#4",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 62.836,
+            "notes_held": [
+                "A4",
+                "C#4",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 62.87,
+            "notes_held": [
+                "A4",
+                "C#4"
+            ]
+        },
+        {
+            "timestamp": 63.271,
+            "notes_held": [
+                "A4",
+                "C#4",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 63.273,
+            "notes_held": [
+                "A4",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 63.28,
+            "notes_held": [
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 63.282,
+            "notes_held": [
+                "A3",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 63.68,
+            "notes_held": [
+                "A3",
+                "E5",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 63.7,
+            "notes_held": [
+                "A3",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 64.133,
+            "notes_held": [
+                "A3"
+            ]
+        },
+        {
+            "timestamp": 64.15,
+            "notes_held": [
+                "A3",
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 64.58,
+            "notes_held": [
+                "A3",
+                "A4",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 64.593,
+            "notes_held": [
+                "A3",
+                "A4",
+                "D4",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 64.598,
+            "notes_held": [
+                "A4",
+                "D4",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 64.621,
+            "notes_held": [
+                "D4",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 65.027,
+            "notes_held": [
+                "D4",
+                "D5",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 65.065,
+            "notes_held": [
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 65.426,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 65.448,
+            "notes_held": [
+                "A4",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 65.87,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 65.883,
+            "notes_held": [
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 65.893,
+            "notes_held": [
+                "D4",
+                "D5",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 65.9,
+            "notes_held": [
+                "D5",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 66.297,
+            "notes_held": [
+                "A4",
+                "D5",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 66.304,
+            "notes_held": [
+                "A4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 66.753,
+            "notes_held": [
+                "A4",
+                "F#3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 66.777,
+            "notes_held": [
+                "F#3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 67.19,
+            "notes_held": [
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 67.196,
+            "notes_held": [
+                "B4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 67.199,
+            "notes_held": [
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 67.216,
+            "notes_held": [
+                "B4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 67.648,
+            "notes_held": [
+                "B4",
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 67.667,
+            "notes_held": [
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 68.115,
+            "notes_held": [
+                "D4",
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 68.124,
+            "notes_held": [
+                "D4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 68.532,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 68.54,
+            "notes_held": [
+                "C#5",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 68.543,
+            "notes_held": [
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 68.548,
+            "notes_held": [
+                "A3",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 68.948,
+            "notes_held": [
+                "A3",
+                "C#5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 68.968,
+            "notes_held": [
+                "A3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 69.364,
+            "notes_held": [
+                "A3"
+            ]
+        },
+        {
+            "timestamp": 69.371,
+            "notes_held": [
+                "A3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 69.797,
+            "notes_held": [
+                "A3",
+                "D5",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 69.808,
+            "notes_held": [
+                "D5",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 69.809,
+            "notes_held": [
+                "B3",
+                "D5",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 69.812,
+            "notes_held": [
+                "B3",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 70.231,
+            "notes_held": [
+                "B3",
+                "D5",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 70.587,
+            "notes_held": [
+                "B3",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 70.604,
+            "notes_held": [
+                "B3",
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 71.047,
+            "notes_held": [
+                "B3",
+                "D4",
+                "D5",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 71.055,
+            "notes_held": [
+                "B3",
+                "D5",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 71.442,
+            "notes_held": [
+                "B3",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 71.446,
+            "notes_held": [
+                "B3",
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 71.879,
+            "notes_held": [
+                "B3",
+                "D4",
+                "D5",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 71.883,
+            "notes_held": [
+                "B3",
+                "D5",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 71.992,
+            "notes_held": [
+                "B3",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 72.318,
+            "notes_held": [
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 72.349,
+            "notes_held": [
+                "E5",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 72.355,
+            "notes_held": [
+                "C#4",
+                "E5",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 72.387,
+            "notes_held": [
+                "C#4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 72.78,
+            "notes_held": [
+                "A4",
+                "C#4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 72.833,
+            "notes_held": [
+                "A4",
+                "C#4"
+            ]
+        },
+        {
+            "timestamp": 73.22,
+            "notes_held": [
+                "C#4"
+            ]
+        },
+        {
+            "timestamp": 73.223,
+            "notes_held": [
+                "C#4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 73.616,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 73.629,
+            "notes_held": [
+                "G4",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 73.63,
+            "notes_held": [
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 73.654,
+            "notes_held": [
+                "E4",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 74.058,
+            "notes_held": [
+                "C#5",
+                "E4",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 74.159,
+            "notes_held": [
+                "C#5",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 74.465,
+            "notes_held": [
+                "A4",
+                "C#5",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 74.471,
+            "notes_held": [
+                "A4",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 74.88,
+            "notes_held": [
+                "A4",
+                "E4",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 74.926,
+            "notes_held": [
+                "E4",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 74.936,
+            "notes_held": [
+                "D4",
+                "E4",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 74.942,
+            "notes_held": [
+                "D4",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 75.326,
+            "notes_held": [
+                "D4",
+                "D5",
+                "F#5"
+            ]
+        },
+        {
+            "timestamp": 75.365,
+            "notes_held": [
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 75.698,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 75.728,
+            "notes_held": [
+                "A4",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 76.141,
+            "notes_held": [
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 76.172,
+            "notes_held": [
+                "A4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 76.174,
+            "notes_held": [
+                "A4",
+                "D5",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 76.175,
+            "notes_held": [
+                "D5",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 76.58,
+            "notes_held": [
+                "A4",
+                "D5",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 76.608,
+            "notes_held": [
+                "A4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 76.998,
+            "notes_held": [
+                "A4",
+                "F#3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 77.042,
+            "notes_held": [
+                "F#3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 77.426,
+            "notes_held": [
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 77.431,
+            "notes_held": [
+                "B4",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 77.443,
+            "notes_held": [
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 77.469,
+            "notes_held": [
+                "B4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 77.844,
+            "notes_held": [
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 77.869,
+            "notes_held": [
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 78.296,
+            "notes_held": [
+                "D4",
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 78.318,
+            "notes_held": [
+                "D4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 78.709,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 78.753,
+            "notes_held": [
+                "C#5",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 78.756,
+            "notes_held": [
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 78.764,
+            "notes_held": [
+                "A3",
+                "C#5"
+            ]
+        },
+        {
+            "timestamp": 79.19,
+            "notes_held": [
+                "A3",
+                "C#5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 79.246,
+            "notes_held": [
+                "A3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 79.608,
+            "notes_held": [
+                "A3",
+                "E4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 79.612,
+            "notes_held": [
+                "A3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 80.032,
+            "notes_held": [
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 80.039,
+            "notes_held": [
+                "D5",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 80.055,
+            "notes_held": [
+                "D3",
+                "D5",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 80.06,
+            "notes_held": [
+                "D3",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 80.527,
+            "notes_held": [
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 80.531,
+            "notes_held": [
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 80.939,
+            "notes_held": [
+                "D3",
+                "D4",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 80.999,
+            "notes_held": [
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 81.363,
+            "notes_held": [
+                "C5",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 81.372,
+            "notes_held": [
+                "C5",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 81.378,
+            "notes_held": [
+                "C5",
+                "D4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 81.414,
+            "notes_held": [
+                "C5",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 81.768,
+            "notes_held": [
+                "C5",
+                "F#3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 81.824,
+            "notes_held": [
+                "F#3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 82.194,
+            "notes_held": [
+                "D4",
+                "F#3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 82.226,
+            "notes_held": [
+                "D4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 82.618,
+            "notes_held": [
+                "B4",
+                "D4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 82.626,
+            "notes_held": [
+                "B4",
+                "F#3"
+            ]
+        },
+        {
+            "timestamp": 82.628,
+            "notes_held": [
+                "B4",
+                "F#3",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 82.649,
+            "notes_held": [
+                "B4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 83.053,
+            "notes_held": [
+                "B4",
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 83.054,
+            "notes_held": [
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 83.409,
+            "notes_held": [
+                "D4",
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 83.414,
+            "notes_held": [
+                "D4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 83.835,
+            "notes_held": [
+                "D4",
+                "D5",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 83.837,
+            "notes_held": [
+                "D5",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 83.842,
+            "notes_held": [
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 83.85,
+            "notes_held": [
+                "B3",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 84.252,
+            "notes_held": [
+                "B3",
+                "B4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 84.274,
+            "notes_held": [
+                "B3",
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 84.651,
+            "notes_held": [
+                "B3"
+            ]
+        },
+        {
+            "timestamp": 84.682,
+            "notes_held": [
+                "B3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 84.698,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 85.11,
+            "notes_held": []
+        },
+        {
+            "timestamp": 85.115,
+            "notes_held": [
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 85.121,
+            "notes_held": [
+                "E4",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 85.591,
+            "notes_held": [
+                "C5",
+                "E4",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 85.674,
+            "notes_held": [
+                "C5",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 85.994,
+            "notes_held": [
+                "C5",
+                "E4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 86.014,
+            "notes_held": [
+                "E4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 86.379,
+            "notes_held": [
+                "E4",
+                "E5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 86.381,
+            "notes_held": [
+                "E5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 86.396,
+            "notes_held": [
+                "C4",
+                "E5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 86.408,
+            "notes_held": [
+                "C4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 86.812,
+            "notes_held": [
+                "C4",
+                "C5",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 86.848,
+            "notes_held": [
+                "C4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 87.213,
+            "notes_held": [
+                "C4"
+            ]
+        },
+        {
+            "timestamp": 87.219,
+            "notes_held": [
+                "C4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 87.608,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 87.654,
+            "notes_held": [
+                "B3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 87.661,
+            "notes_held": [
+                "B3",
+                "D5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 87.691,
+            "notes_held": [
+                "B3",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 88.079,
+            "notes_held": [
+                "B3",
+                "B4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 88.159,
+            "notes_held": [
+                "B3",
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 88.477,
+            "notes_held": [
+                "B3"
+            ]
+        },
+        {
+            "timestamp": 88.488,
+            "notes_held": [
+                "B3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 88.886,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 88.911,
+            "notes_held": []
+        },
+        {
+            "timestamp": 88.928,
+            "notes_held": [
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 88.929,
+            "notes_held": [
+                "B4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 89.35,
+            "notes_held": [
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 89.367,
+            "notes_held": [
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 89.736,
+            "notes_held": [
+                "D4",
+                "G3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 89.748,
+            "notes_held": [
+                "D4",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 90.181,
+            "notes_held": [
+                "D4",
+                "E3",
+                "G3"
+            ]
+        },
+        {
+            "timestamp": 90.182,
+            "notes_held": [
+                "D4",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 90.184,
+            "notes_held": [
+                "D4",
+                "E3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 90.218,
+            "notes_held": [
+                "E3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 90.614,
+            "notes_held": [
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 90.624,
+            "notes_held": [
+                "E3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 91.038,
+            "notes_held": [
+                "B3",
+                "E3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 91.04,
+            "notes_held": [
+                "B3",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 91.468,
+            "notes_held": [
+                "A4",
+                "B3",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 91.487,
+            "notes_held": [
+                "A4",
+                "B3",
+                "D3",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 91.492,
+            "notes_held": [
+                "A4",
+                "D3",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 91.498,
+            "notes_held": [
+                "A4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 91.888,
+            "notes_held": [
+                "A4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 91.898,
+            "notes_held": [
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 92.326,
+            "notes_held": [
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 92.335,
+            "notes_held": [
+                "C4",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 92.351,
+            "notes_held": [
+                "C4"
+            ]
+        },
+        {
+            "timestamp": 92.789,
+            "notes_held": [
+                "C4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 92.798,
+            "notes_held": [
+                "B4",
+                "C4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 92.815,
+            "notes_held": [
+                "B4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 93.209,
+            "notes_held": [
+                "B4",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 93.234,
+            "notes_held": [
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 93.605,
+            "notes_held": [
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 93.64,
+            "notes_held": [
+                "D4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 94.043,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 94.056,
+            "notes_held": [
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 94.091,
+            "notes_held": [
+                "B2",
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 94.101,
+            "notes_held": [
+                "B2",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 94.469,
+            "notes_held": [
+                "B2",
+                "D5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 94.488,
+            "notes_held": [
+                "B2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 94.862,
+            "notes_held": [
+                "B2",
+                "D4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 94.889,
+            "notes_held": [
+                "B2",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 95.298,
+            "notes_held": [
+                "B2",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 95.304,
+            "notes_held": [
+                "A4",
+                "B2",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 95.313,
+            "notes_held": [
+                "A4",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 95.322,
+            "notes_held": [
+                "A4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 95.725,
+            "notes_held": [
+                "A4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 96.12,
+            "notes_held": [
+                "A4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 96.129,
+            "notes_held": [
+                "A4",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 96.939,
+            "notes_held": [
+                "A4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 96.943,
+            "notes_held": [
+                "A4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 97.348,
+            "notes_held": [
+                "A4",
+                "D3",
+                "D4",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 97.355,
+            "notes_held": [
+                "A4",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 97.708,
+            "notes_held": [
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 97.771,
+            "notes_held": [
+                "D3",
+                "D4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 97.778,
+            "notes_held": [
+                "B4",
+                "D3",
+                "D4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 97.8,
+            "notes_held": [
+                "B4",
+                "D4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 97.823,
+            "notes_held": [
+                "B4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 98.188,
+            "notes_held": [
+                "B4",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 98.201,
+            "notes_held": [
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 98.595,
+            "notes_held": [
+                "D4",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 98.614,
+            "notes_held": [
+                "D4",
+                "G2"
+            ]
+        },
+        {
+            "timestamp": 98.966,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 99.009,
+            "notes_held": [
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 99.034,
+            "notes_held": [
+                "B2",
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 99.079,
+            "notes_held": [
+                "B2",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 99.415,
+            "notes_held": [
+                "B2",
+                "D5",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 99.44,
+            "notes_held": [
+                "B2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 99.815,
+            "notes_held": [
+                "B2",
+                "D4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 99.828,
+            "notes_held": [
+                "B2",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 100.243,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 100.255,
+            "notes_held": [
+                "A4",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 100.268,
+            "notes_held": [
+                "A4",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 100.269,
+            "notes_held": [
+                "A4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 100.681,
+            "notes_held": [
+                "A4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 100.732,
+            "notes_held": [
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 101.088,
+            "notes_held": [
+                "D3",
+                "D4",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 101.512,
+            "notes_held": [
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 101.531,
+            "notes_held": [
+                "B4",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 101.532,
+            "notes_held": [
+                "B2",
+                "B4",
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 101.535,
+            "notes_held": [
+                "B2",
+                "B4",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 101.54,
+            "notes_held": [
+                "B2",
+                "B4"
+            ]
+        },
+        {
+            "timestamp": 101.94,
+            "notes_held": [
+                "B2",
+                "B4",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 101.947,
+            "notes_held": [
+                "B2",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 102.369,
+            "notes_held": [
+                "B2",
+                "D4",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 102.4,
+            "notes_held": [
+                "B2",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 102.76,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 102.776,
+            "notes_held": [
+                "C5",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 102.778,
+            "notes_held": [
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 102.808,
+            "notes_held": [
+                "A2",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 103.184,
+            "notes_held": [
+                "A2",
+                "A4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 103.19,
+            "notes_held": [
+                "A2",
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 103.568,
+            "notes_held": [
+                "A2"
+            ]
+        },
+        {
+            "timestamp": 103.595,
+            "notes_held": [
+                "A2",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 103.996,
+            "notes_held": [
+                "A2",
+                "E4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 104.002,
+            "notes_held": [
+                "A2",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 104.414,
+            "notes_held": [
+                "A2",
+                "C5",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 104.421,
+            "notes_held": [
+                "A2",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 104.734,
+            "notes_held": [
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 104.814,
+            "notes_held": []
+        },
+        {
+            "timestamp": 104.836,
+            "notes_held": [
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 105.252,
+            "notes_held": [
+                "A4",
+                "A5"
+            ]
+        },
+        {
+            "timestamp": 105.261,
+            "notes_held": [
+                "A4",
+                "A5",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 105.263,
+            "notes_held": [
+                "A5",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 105.668,
+            "notes_held": [
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 105.706,
+            "notes_held": [
+                "D5",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 106.122,
+            "notes_held": [
+                "A4",
+                "D5",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 106.135,
+            "notes_held": [
+                "A4",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 106.534,
+            "notes_held": [
+                "A4",
+                "F4",
+                "F5"
+            ]
+        },
+        {
+            "timestamp": 106.54,
+            "notes_held": [
+                "A4",
+                "F5"
+            ]
+        },
+        {
+            "timestamp": 106.568,
+            "notes_held": [
+                "A4",
+                "D4",
+                "F5"
+            ]
+        },
+        {
+            "timestamp": 106.572,
+            "notes_held": [
+                "D4",
+                "F5"
+            ]
+        },
+        {
+            "timestamp": 106.95,
+            "notes_held": [
+                "D4",
+                "D5",
+                "F5"
+            ]
+        },
+        {
+            "timestamp": 106.992,
+            "notes_held": [
+                "D4",
+                "D5"
+            ]
+        },
+        {
+            "timestamp": 107.351,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 107.358,
+            "notes_held": [
+                "A4",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 107.743,
+            "notes_held": [
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 107.776,
+            "notes_held": [
+                "A4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 107.782,
+            "notes_held": [
+                "A4",
+                "C4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 107.791,
+            "notes_held": [
+                "C4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 108.191,
+            "notes_held": [
+                "C4",
+                "C5",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 108.204,
+            "notes_held": [
+                "C4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 108.627,
+            "notes_held": [
+                "C4"
+            ]
+        },
+        {
+            "timestamp": 108.633,
+            "notes_held": [
+                "A4",
+                "C4"
+            ]
+        },
+        {
+            "timestamp": 109.023,
+            "notes_held": [
+                "C4"
+            ]
+        },
+        {
+            "timestamp": 109.049,
+            "notes_held": [
+                "C4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 109.065,
+            "notes_held": [
+                "A3",
+                "C4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 109.076,
+            "notes_held": [
+                "A3",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 109.475,
+            "notes_held": [
+                "A3",
+                "A4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 109.508,
+            "notes_held": [
+                "A3",
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 109.878,
+            "notes_held": [
+                "A3"
+            ]
+        },
+        {
+            "timestamp": 109.889,
+            "notes_held": [
+                "A3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 110.297,
+            "notes_held": [
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 110.325,
+            "notes_held": [
+                "A4",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 110.337,
+            "notes_held": [
+                "A4",
+                "E4",
+                "F3"
+            ]
+        },
+        {
+            "timestamp": 110.353,
+            "notes_held": [
+                "A4",
+                "F3"
+            ]
+        },
+        {
+            "timestamp": 110.778,
+            "notes_held": [
+                "A4",
+                "F3",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 110.797,
+            "notes_held": [
+                "F3",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 111.159,
+            "notes_held": [
+                "C4",
+                "F3",
+                "F4"
+            ]
+        },
+        {
+            "timestamp": 111.18,
+            "notes_held": [
+                "C4",
+                "F3"
+            ]
+        },
+        {
+            "timestamp": 111.535,
+            "notes_held": [
+                "C4"
+            ]
+        },
+        {
+            "timestamp": 111.57,
+            "notes_held": [
+                "C4",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 111.575,
+            "notes_held": [
+                "B4",
+                "C4",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 111.581,
+            "notes_held": [
+                "B4",
+                "E3"
+            ]
+        },
+        {
+            "timestamp": 111.982,
+            "notes_held": [
+                "B4",
+                "E3",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 111.992,
+            "notes_held": [
+                "E3",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 112.347,
+            "notes_held": [
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 112.397,
+            "notes_held": [
+                "D4",
+                "G#4"
+            ]
+        },
+        {
+            "timestamp": 112.402,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 112.815,
+            "notes_held": [
+                "C5",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 112.825,
+            "notes_held": [
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 112.835,
+            "notes_held": [
+                "A2",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 113.234,
+            "notes_held": [
+                "A2",
+                "A4",
+                "C5"
+            ]
+        },
+        {
+            "timestamp": 113.248,
+            "notes_held": [
+                "A2",
+                "A4"
+            ]
+        },
+        {
+            "timestamp": 113.579,
+            "notes_held": [
+                "A2"
+            ]
+        },
+        {
+            "timestamp": 113.608,
+            "notes_held": [
+                "A2",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 114.037,
+            "notes_held": [
+                "A2",
+                "E4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 114.038,
+            "notes_held": [
+                "E4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 114.071,
+            "notes_held": [
+                "C3",
+                "E4",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 114.073,
+            "notes_held": [
+                "C3",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 114.43,
+            "notes_held": [
+                "A4",
+                "C3",
+                "E5"
+            ]
+        },
+        {
+            "timestamp": 114.436,
+            "notes_held": [
+                "A4",
+                "C3"
+            ]
+        },
+        {
+            "timestamp": 114.841,
+            "notes_held": [
+                "C3"
+            ]
+        },
+        {
+            "timestamp": 114.856,
+            "notes_held": [
+                "C3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 115.273,
+            "notes_held": [
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 115.291,
+            "notes_held": [
+                "A4",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 115.293,
+            "notes_held": [
+                "A4",
+                "D3",
+                "E4"
+            ]
+        },
+        {
+            "timestamp": 115.306,
+            "notes_held": [
+                "A4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 115.714,
+            "notes_held": [
+                "A4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 115.777,
+            "notes_held": [
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 116.099,
+            "notes_held": [
+                "C4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 116.119,
+            "notes_held": [
+                "C4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 116.514,
+            "notes_held": [
+                "B4",
+                "C4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 116.538,
+            "notes_held": [
+                "B4",
+                "D3"
+            ]
+        },
+        {
+            "timestamp": 116.924,
+            "notes_held": [
+                "B4",
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 116.936,
+            "notes_held": [
+                "D3",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 117.305,
+            "notes_held": [
+                "D3",
+                "D4",
+                "F#4"
+            ]
+        },
+        {
+            "timestamp": 117.306,
+            "notes_held": [
+                "D3",
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 117.711,
+            "notes_held": [
+                "D4"
+            ]
+        },
+        {
+            "timestamp": 117.748,
+            "notes_held": []
+        },
+        {
+            "timestamp": 117.751,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 117.774,
+            "notes_held": [
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 118.202,
+            "notes_held": [
+                "D4",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 118.629,
+            "notes_held": [
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 118.635,
+            "notes_held": [
+                "B3",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 118.679,
+            "notes_held": [
+                "B3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 118.975,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 119.042,
+            "notes_held": [
+                "C2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 119.495,
+            "notes_held": [
+                "C2",
+                "E4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 119.929,
+            "notes_held": [
+                "C2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 119.94,
+            "notes_held": [
+                "C2",
+                "C4",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 120.332,
+            "notes_held": [
+                "C2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 120.338,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 120.354,
+            "notes_held": [
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 120.822,
+            "notes_held": [
+                "D4",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 121.278,
+            "notes_held": [
+                "B3",
+                "D4",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 121.279,
+            "notes_held": [
+                "B3",
+                "G2",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 121.304,
+            "notes_held": [
+                "B3",
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 121.779,
+            "notes_held": [
+                "G4"
+            ]
+        },
+        {
+            "timestamp": 121.852,
+            "notes_held": []
+        }
+    ]
+}
