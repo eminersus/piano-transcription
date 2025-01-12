@@ -1,285 +1,285 @@
 {
-    "duration": 89.282,
+    "duration": 88.122,
     "notes_held": [
         {
-            "timestamp": 1.75,
+            "timestamp": 0.59,
             "notes_held": [
                 "D3"
             ]
         },
         {
-            "timestamp": 2.108,
+            "timestamp": 0.948,
             "notes_held": []
         },
         {
-            "timestamp": 2.898,
+            "timestamp": 1.738,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 3.212,
+            "timestamp": 2.052,
             "notes_held": []
         },
         {
-            "timestamp": 4.023,
+            "timestamp": 2.863,
             "notes_held": [
                 "B2"
             ]
         },
         {
-            "timestamp": 4.334,
+            "timestamp": 3.174,
             "notes_held": []
         },
         {
-            "timestamp": 5.192,
+            "timestamp": 4.032,
             "notes_held": [
                 "F#2"
             ]
         },
         {
-            "timestamp": 5.492,
+            "timestamp": 4.332,
             "notes_held": []
         },
         {
-            "timestamp": 6.386,
+            "timestamp": 5.226,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 6.67,
+            "timestamp": 5.51,
             "notes_held": []
         },
         {
-            "timestamp": 7.551,
+            "timestamp": 6.391,
             "notes_held": [
                 "D2"
             ]
         },
         {
-            "timestamp": 7.899,
+            "timestamp": 6.739,
             "notes_held": []
         },
         {
-            "timestamp": 8.764,
+            "timestamp": 7.604,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 9.119,
+            "timestamp": 7.959,
             "notes_held": []
         },
         {
-            "timestamp": 9.991,
+            "timestamp": 8.831,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 10.303,
+            "timestamp": 9.143,
             "notes_held": []
         },
         {
-            "timestamp": 11.146,
+            "timestamp": 9.986,
             "notes_held": [
                 "F#5"
             ]
         },
         {
-            "timestamp": 11.161,
+            "timestamp": 10.001,
             "notes_held": [
                 "D3",
                 "F#5"
             ]
         },
         {
-            "timestamp": 11.572,
+            "timestamp": 10.412,
             "notes_held": [
                 "F#5"
             ]
         },
         {
-            "timestamp": 11.596,
+            "timestamp": 10.436,
             "notes_held": []
         },
         {
-            "timestamp": 12.365,
+            "timestamp": 11.205,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 12.373,
+            "timestamp": 11.213,
             "notes_held": [
                 "A2",
                 "E5"
             ]
         },
         {
-            "timestamp": 12.781,
+            "timestamp": 11.621,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 12.791,
+            "timestamp": 11.631,
             "notes_held": []
         },
         {
-            "timestamp": 13.651,
+            "timestamp": 12.491,
             "notes_held": [
                 "D5"
             ]
         },
         {
-            "timestamp": 13.652,
+            "timestamp": 12.492,
             "notes_held": [
                 "B2",
                 "D5"
             ]
         },
         {
-            "timestamp": 14.036,
+            "timestamp": 12.876,
             "notes_held": [
                 "D5"
             ]
         },
         {
-            "timestamp": 14.042,
+            "timestamp": 12.882,
             "notes_held": []
         },
         {
-            "timestamp": 14.826,
+            "timestamp": 13.666,
             "notes_held": [
                 "C#5"
             ]
         },
         {
-            "timestamp": 14.847,
+            "timestamp": 13.687,
             "notes_held": [
                 "C#5",
                 "F#2"
             ]
         },
         {
-            "timestamp": 15.201,
+            "timestamp": 14.041,
             "notes_held": [
                 "C#5"
             ]
         },
         {
-            "timestamp": 15.223,
+            "timestamp": 14.063,
             "notes_held": []
         },
         {
-            "timestamp": 15.974,
+            "timestamp": 14.814,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 15.976,
+            "timestamp": 14.816,
             "notes_held": [
                 "B4",
                 "G2"
             ]
         },
         {
-            "timestamp": 16.326,
+            "timestamp": 15.166,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 16.329,
+            "timestamp": 15.169,
             "notes_held": []
         },
         {
-            "timestamp": 17.142,
+            "timestamp": 15.982,
             "notes_held": [
                 "A4"
             ]
         },
         {
-            "timestamp": 17.149,
+            "timestamp": 15.989,
             "notes_held": [
                 "A4",
                 "D2"
             ]
         },
         {
-            "timestamp": 17.567,
+            "timestamp": 16.407,
             "notes_held": [
                 "D2"
             ]
         },
         {
-            "timestamp": 17.591,
+            "timestamp": 16.431,
             "notes_held": []
         },
         {
-            "timestamp": 18.352,
+            "timestamp": 17.192,
             "notes_held": [
                 "B4"
             ]
         },
         {
-            "timestamp": 18.357,
+            "timestamp": 17.197,
             "notes_held": [
                 "B4",
                 "G2"
             ]
         },
         {
-            "timestamp": 18.741,
+            "timestamp": 17.581,
             "notes_held": [
                 "B4"
             ]
         },
         {
-            "timestamp": 18.749,
+            "timestamp": 17.589,
             "notes_held": []
         },
         {
-            "timestamp": 19.502,
+            "timestamp": 18.342,
             "notes_held": [
                 "C#5"
             ]
         },
         {
-            "timestamp": 19.533,
+            "timestamp": 18.373,
             "notes_held": [
                 "A2",
                 "C#5"
             ]
         },
         {
-            "timestamp": 19.902,
+            "timestamp": 18.742,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 19.91,
+            "timestamp": 18.75,
             "notes_held": []
         },
         {
-            "timestamp": 20.625,
+            "timestamp": 19.465,
             "notes_held": [
                 "D3"
             ]
         },
         {
-            "timestamp": 20.628,
+            "timestamp": 19.468,
             "notes_held": [
                 "D3",
                 "F#5"
             ]
         },
         {
-            "timestamp": 20.636,
+            "timestamp": 19.476,
             "notes_held": [
                 "D3",
                 "D5",
@@ -287,37 +287,37 @@
             ]
         },
         {
-            "timestamp": 20.997,
+            "timestamp": 19.837,
             "notes_held": [
                 "D3",
                 "F#5"
             ]
         },
         {
-            "timestamp": 21.003,
+            "timestamp": 19.843,
             "notes_held": [
                 "D3"
             ]
         },
         {
-            "timestamp": 21.019,
+            "timestamp": 19.859,
             "notes_held": []
         },
         {
-            "timestamp": 21.78,
+            "timestamp": 20.62,
             "notes_held": [
                 "C#5"
             ]
         },
         {
-            "timestamp": 21.784,
+            "timestamp": 20.624,
             "notes_held": [
                 "C#5",
                 "E5"
             ]
         },
         {
-            "timestamp": 21.799,
+            "timestamp": 20.639,
             "notes_held": [
                 "A2",
                 "C#5",
@@ -325,37 +325,37 @@
             ]
         },
         {
-            "timestamp": 22.151,
+            "timestamp": 20.991,
             "notes_held": [
                 "C#5",
                 "E5"
             ]
         },
         {
-            "timestamp": 22.16,
+            "timestamp": 21.0,
             "notes_held": [
                 "C#5"
             ]
         },
         {
-            "timestamp": 22.167,
+            "timestamp": 21.007,
             "notes_held": []
         },
         {
-            "timestamp": 22.961,
+            "timestamp": 21.801,
             "notes_held": [
                 "D5"
             ]
         },
         {
-            "timestamp": 22.97,
+            "timestamp": 21.81,
             "notes_held": [
                 "B2",
                 "D5"
             ]
         },
         {
-            "timestamp": 22.975,
+            "timestamp": 21.815,
             "notes_held": [
                 "B2",
                 "B4",
@@ -363,37 +363,37 @@
             ]
         },
         {
-            "timestamp": 23.346,
+            "timestamp": 22.186,
             "notes_held": [
                 "B2",
                 "D5"
             ]
         },
         {
-            "timestamp": 23.355,
+            "timestamp": 22.195,
             "notes_held": [
                 "B2"
             ]
         },
         {
-            "timestamp": 23.37,
+            "timestamp": 22.21,
             "notes_held": []
         },
         {
-            "timestamp": 24.138,
+            "timestamp": 22.978,
             "notes_held": [
                 "C#5"
             ]
         },
         {
-            "timestamp": 24.146,
+            "timestamp": 22.986,
             "notes_held": [
                 "A4",
                 "C#5"
             ]
         },
         {
-            "timestamp": 24.154,
+            "timestamp": 22.994,
             "notes_held": [
                 "A4",
                 "C#5",
@@ -401,37 +401,37 @@
             ]
         },
         {
-            "timestamp": 24.449,
+            "timestamp": 23.289,
             "notes_held": [
                 "C#5",
                 "F#2"
             ]
         },
         {
-            "timestamp": 24.472,
+            "timestamp": 23.312,
             "notes_held": [
                 "F#2"
             ]
         },
         {
-            "timestamp": 24.477,
+            "timestamp": 23.317,
             "notes_held": []
         },
         {
-            "timestamp": 25.387,
+            "timestamp": 24.227,
             "notes_held": [
                 "G4"
             ]
         },
         {
-            "timestamp": 25.393,
+            "timestamp": 24.233,
             "notes_held": [
                 "B4",
                 "G4"
             ]
         },
         {
-            "timestamp": 25.394,
+            "timestamp": 24.234,
             "notes_held": [
                 "B4",
                 "G2",
@@ -439,37 +439,37 @@
             ]
         },
         {
-            "timestamp": 25.804,
+            "timestamp": 24.644,
             "notes_held": [
                 "B4",
                 "G4"
             ]
         },
         {
-            "timestamp": 25.814,
+            "timestamp": 24.654,
             "notes_held": [
                 "B4"
             ]
         },
         {
-            "timestamp": 25.843,
+            "timestamp": 24.683,
             "notes_held": []
         },
         {
-            "timestamp": 26.6,
+            "timestamp": 25.44,
             "notes_held": [
                 "A4"
             ]
         },
         {
-            "timestamp": 26.622,
+            "timestamp": 25.462,
             "notes_held": [
                 "A4",
                 "F#4"
             ]
         },
         {
-            "timestamp": 26.632,
+            "timestamp": 25.472,
             "notes_held": [
                 "A4",
                 "D2",
@@ -477,37 +477,37 @@
             ]
         },
         {
-            "timestamp": 26.957,
+            "timestamp": 25.797,
             "notes_held": [
                 "A4",
                 "D2"
             ]
         },
         {
-            "timestamp": 26.961,
+            "timestamp": 25.801,
             "notes_held": [
                 "D2"
             ]
         },
         {
-            "timestamp": 26.987,
+            "timestamp": 25.827,
             "notes_held": []
         },
         {
-            "timestamp": 27.801,
+            "timestamp": 26.641,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 27.821,
+            "timestamp": 26.661,
             "notes_held": [
                 "B4",
                 "G2"
             ]
         },
         {
-            "timestamp": 27.847,
+            "timestamp": 26.687,
             "notes_held": [
                 "B4",
                 "G2",
@@ -515,37 +515,37 @@
             ]
         },
         {
-            "timestamp": 28.185,
+            "timestamp": 27.025,
             "notes_held": [
                 "B4",
                 "G2"
             ]
         },
         {
-            "timestamp": 28.19,
+            "timestamp": 27.03,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 28.197,
+            "timestamp": 27.037,
             "notes_held": []
         },
         {
-            "timestamp": 29.005,
+            "timestamp": 27.845,
             "notes_held": [
                 "C#5"
             ]
         },
         {
-            "timestamp": 29.025,
+            "timestamp": 27.865,
             "notes_held": [
                 "A4",
                 "C#5"
             ]
         },
         {
-            "timestamp": 29.032,
+            "timestamp": 27.872,
             "notes_held": [
                 "A2",
                 "A4",
@@ -553,204 +553,237 @@
             ]
         },
         {
-            "timestamp": 29.386,
+            "timestamp": 28.226,
             "notes_held": [
                 "A2",
                 "C#5"
             ]
         },
         {
-            "timestamp": 29.42,
+            "timestamp": 28.26,
             "notes_held": [
                 "C#5"
             ]
         },
         {
-            "timestamp": 29.437,
+            "timestamp": 28.277,
             "notes_held": []
         },
         {
-            "timestamp": 30.128,
+            "timestamp": 28.968,
             "notes_held": [
                 "D3"
             ]
         },
         {
-            "timestamp": 30.14,
+            "timestamp": 28.979,
             "notes_held": [
                 "D3",
                 "D5"
             ]
         },
         {
-            "timestamp": 30.501,
+            "timestamp": 29.341,
             "notes_held": [
                 "D3"
             ]
         },
         {
-            "timestamp": 30.743,
+            "timestamp": 29.583,
             "notes_held": []
         },
         {
-            "timestamp": 30.769,
+            "timestamp": 29.609,
             "notes_held": [
                 "F#5"
             ]
         },
         {
-            "timestamp": 31.058,
+            "timestamp": 29.898,
             "notes_held": []
         },
         {
-            "timestamp": 31.358,
+            "timestamp": 30.198,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 31.359,
+            "timestamp": 30.199,
             "notes_held": [
                 "A2",
                 "A5"
             ]
         },
         {
-            "timestamp": 31.73,
+            "timestamp": 30.57,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 31.759,
+            "timestamp": 30.599,
             "notes_held": []
         },
         {
-            "timestamp": 31.961,
+            "timestamp": 30.801,
             "notes_held": [
                 "G5"
             ]
         },
         {
-            "timestamp": 32.366,
+            "timestamp": 31.206,
             "notes_held": []
         },
         {
-            "timestamp": 32.553,
+            "timestamp": 31.393,
             "notes_held": [
                 "B2"
             ]
         },
         {
-            "timestamp": 32.561,
+            "timestamp": 31.401,
             "notes_held": [
                 "B2",
                 "F#5"
             ]
         },
         {
-            "timestamp": 32.979,
+            "timestamp": 31.819,
             "notes_held": [
                 "B2"
             ]
         },
         {
-            "timestamp": 32.985,
+            "timestamp": 31.825,
             "notes_held": []
         },
         {
-            "timestamp": 33.211,
+            "timestamp": 32.051,
             "notes_held": [
                 "D5"
             ]
         },
         {
-            "timestamp": 33.656,
+            "timestamp": 32.496,
             "notes_held": []
         },
         {
-            "timestamp": 33.822,
+            "timestamp": 32.662,
             "notes_held": [
                 "F#2"
             ]
         },
         {
-            "timestamp": 33.823,
+            "timestamp": 32.663,
             "notes_held": [
                 "F#2",
                 "F#5"
             ]
         },
         {
-            "timestamp": 34.24,
+            "timestamp": 33.079,
             "notes_held": [
                 "F#5"
             ]
         },
         {
-            "timestamp": 34.255,
+            "timestamp": 33.095,
             "notes_held": []
         },
         {
-            "timestamp": 34.4,
+            "timestamp": 33.24,
             "notes_held": [
                 "E5"
             ]
         },
         {
-            "timestamp": 34.787,
+            "timestamp": 33.627,
             "notes_held": []
         },
         {
-            "timestamp": 34.977,
+            "timestamp": 33.817,
             "notes_held": [
                 "D5"
             ]
         },
         {
-            "timestamp": 34.983,
+            "timestamp": 33.823,
             "notes_held": [
                 "D5",
                 "G2"
             ]
         },
         {
-            "timestamp": 35.376,
+            "timestamp": 34.216,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 35.446,
+            "timestamp": 34.286,
             "notes_held": []
         },
         {
-            "timestamp": 35.584,
+            "timestamp": 34.424,
             "notes_held": [
                 "B4"
             ]
         },
         {
-            "timestamp": 35.976,
+            "timestamp": 34.816,
             "notes_held": []
         },
         {
-            "timestamp": 36.192,
+            "timestamp": 35.032,
             "notes_held": [
                 "D2"
             ]
         },
         {
-            "timestamp": 36.199,
+            "timestamp": 35.039,
             "notes_held": [
                 "D2",
                 "D5"
             ]
         },
         {
-            "timestamp": 36.606,
+            "timestamp": 35.446,
             "notes_held": [
                 "D2"
+            ]
+        },
+        {
+            "timestamp": 35.498,
+            "notes_held": []
+        },
+        {
+            "timestamp": 35.641,
+            "notes_held": [
+                "A5"
+            ]
+        },
+        {
+            "timestamp": 36.014,
+            "notes_held": []
+        },
+        {
+            "timestamp": 36.215,
+            "notes_held": [
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 36.233,
+            "notes_held": [
+                "G2",
+                "G5"
+            ]
+        },
+        {
+            "timestamp": 36.642,
+            "notes_held": [
+                "G2"
             ]
         },
         {
@@ -758,1079 +791,1046 @@
             "notes_held": []
         },
         {
-            "timestamp": 36.801,
-            "notes_held": [
-                "A5"
-            ]
-        },
-        {
-            "timestamp": 37.174,
-            "notes_held": []
-        },
-        {
-            "timestamp": 37.375,
-            "notes_held": [
-                "G5"
-            ]
-        },
-        {
-            "timestamp": 37.393,
-            "notes_held": [
-                "G2",
-                "G5"
-            ]
-        },
-        {
-            "timestamp": 37.802,
-            "notes_held": [
-                "G2"
-            ]
-        },
-        {
-            "timestamp": 37.818,
-            "notes_held": []
-        },
-        {
-            "timestamp": 38.0,
+            "timestamp": 36.84,
             "notes_held": [
                 "B5"
             ]
         },
         {
-            "timestamp": 38.43,
+            "timestamp": 37.27,
             "notes_held": []
         },
         {
-            "timestamp": 38.607,
+            "timestamp": 37.447,
             "notes_held": [
                 "A5"
             ]
         },
         {
-            "timestamp": 38.627,
+            "timestamp": 37.467,
             "notes_held": [
                 "A2",
                 "A5"
             ]
         },
         {
-            "timestamp": 39.033,
+            "timestamp": 37.873,
             "notes_held": [
                 "A5"
             ]
         },
         {
-            "timestamp": 39.04,
+            "timestamp": 37.88,
             "notes_held": []
         },
         {
-            "timestamp": 39.205,
+            "timestamp": 38.045,
             "notes_held": [
                 "G5"
             ]
         },
         {
-            "timestamp": 39.487,
+            "timestamp": 38.327,
             "notes_held": []
         },
         {
-            "timestamp": 39.806,
+            "timestamp": 38.646,
             "notes_held": [
                 "F#5"
             ]
         },
         {
-            "timestamp": 39.81,
+            "timestamp": 38.65,
             "notes_held": [
                 "D3",
                 "F#5"
             ]
         },
         {
-            "timestamp": 40.244,
+            "timestamp": 39.084,
             "notes_held": [
                 "D3"
             ]
         },
         {
-            "timestamp": 40.269,
+            "timestamp": 39.109,
             "notes_held": []
         },
         {
-            "timestamp": 40.395,
+            "timestamp": 39.235,
             "notes_held": [
                 "D5"
             ]
         },
         {
-            "timestamp": 40.738,
+            "timestamp": 39.578,
             "notes_held": []
         },
         {
-            "timestamp": 40.983,
+            "timestamp": 39.823,
             "notes_held": [
                 "E5"
             ]
         },
         {
-            "timestamp": 41.009,
+            "timestamp": 39.849,
             "notes_held": [
                 "A2",
                 "E5"
             ]
         },
         {
-            "timestamp": 41.343,
+            "timestamp": 40.183,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 41.492,
+            "timestamp": 40.332,
             "notes_held": []
         },
         {
-            "timestamp": 41.586,
+            "timestamp": 40.426,
             "notes_held": [
                 "C#5"
             ]
         },
         {
-            "timestamp": 42.0,
+            "timestamp": 40.84,
             "notes_held": []
         },
         {
-            "timestamp": 42.183,
+            "timestamp": 41.023,
             "notes_held": [
                 "D5"
             ]
         },
         {
-            "timestamp": 42.199,
+            "timestamp": 41.039,
             "notes_held": [
                 "B2",
                 "D5"
             ]
         },
         {
-            "timestamp": 42.61,
+            "timestamp": 41.45,
             "notes_held": [
                 "B2"
             ]
         },
         {
-            "timestamp": 42.708,
+            "timestamp": 41.548,
             "notes_held": []
         },
         {
-            "timestamp": 42.81,
+            "timestamp": 41.65,
             "notes_held": [
                 "F#5"
             ]
         },
         {
-            "timestamp": 43.292,
+            "timestamp": 42.132,
             "notes_held": []
         },
         {
-            "timestamp": 43.42,
+            "timestamp": 42.26,
             "notes_held": [
                 "A5"
             ]
         },
         {
-            "timestamp": 43.443,
+            "timestamp": 42.283,
             "notes_held": [
                 "A5",
                 "F#2"
             ]
         },
         {
-            "timestamp": 43.799,
+            "timestamp": 42.639,
             "notes_held": [
                 "F#2"
             ]
         },
         {
-            "timestamp": 43.924,
+            "timestamp": 42.764,
             "notes_held": []
         },
         {
-            "timestamp": 44.027,
+            "timestamp": 42.867,
             "notes_held": [
                 "A4"
             ]
         },
         {
-            "timestamp": 44.277,
+            "timestamp": 43.117,
             "notes_held": []
         },
         {
-            "timestamp": 44.61,
+            "timestamp": 43.45,
             "notes_held": [
                 "B5"
             ]
         },
         {
-            "timestamp": 44.636,
+            "timestamp": 43.476,
             "notes_held": [
                 "B5",
                 "G2"
             ]
         },
         {
-            "timestamp": 44.969,
+            "timestamp": 43.809,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 45.211,
+            "timestamp": 44.051,
             "notes_held": [
                 "G2",
                 "G5"
             ]
         },
         {
-            "timestamp": 45.304,
+            "timestamp": 44.144,
             "notes_held": [
                 "G5"
             ]
         },
         {
-            "timestamp": 45.496,
+            "timestamp": 44.336,
             "notes_held": []
         },
         {
-            "timestamp": 45.785,
+            "timestamp": 44.625,
             "notes_held": [
                 "A5"
             ]
         },
         {
-            "timestamp": 45.834,
+            "timestamp": 44.674,
             "notes_held": [
                 "A5",
                 "D2"
             ]
         },
         {
-            "timestamp": 46.19,
+            "timestamp": 45.03,
             "notes_held": [
                 "D2"
             ]
         },
         {
-            "timestamp": 46.311,
+            "timestamp": 45.151,
             "notes_held": []
         },
         {
-            "timestamp": 46.412,
+            "timestamp": 45.252,
             "notes_held": [
                 "F#5"
             ]
         },
         {
-            "timestamp": 46.859,
+            "timestamp": 45.699,
             "notes_held": []
         },
         {
-            "timestamp": 47.021,
+            "timestamp": 45.861,
             "notes_held": [
                 "D5"
             ]
         },
         {
-            "timestamp": 47.025,
+            "timestamp": 45.865,
             "notes_held": [
                 "D5",
                 "G2"
             ]
         },
         {
-            "timestamp": 47.384,
+            "timestamp": 46.224,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 47.547,
+            "timestamp": 46.387,
             "notes_held": []
         },
         {
-            "timestamp": 47.616,
+            "timestamp": 46.456,
             "notes_held": [
                 "D4"
             ]
         },
         {
-            "timestamp": 47.986,
+            "timestamp": 46.826,
             "notes_held": []
         },
         {
-            "timestamp": 48.201,
+            "timestamp": 47.041,
             "notes_held": [
                 "D5"
             ]
         },
         {
-            "timestamp": 48.208,
+            "timestamp": 47.048,
             "notes_held": [
                 "A2",
                 "D5"
             ]
         },
         {
-            "timestamp": 48.646,
+            "timestamp": 47.486,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 48.742,
+            "timestamp": 47.582,
             "notes_held": []
         },
         {
-            "timestamp": 48.814,
+            "timestamp": 47.654,
             "notes_held": [
                 "C#5"
             ]
         },
         {
-            "timestamp": 49.3,
+            "timestamp": 48.14,
             "notes_held": []
         },
         {
-            "timestamp": 49.452,
+            "timestamp": 48.292,
             "notes_held": [
                 "D5"
             ]
         },
         {
-            "timestamp": 49.459,
+            "timestamp": 48.299,
             "notes_held": [
                 "D3",
                 "D5"
             ]
         },
         {
-            "timestamp": 49.91,
+            "timestamp": 48.75,
             "notes_held": [
                 "D3"
             ]
         },
         {
-            "timestamp": 50.087,
+            "timestamp": 48.927,
             "notes_held": [
                 "D3",
                 "D4"
             ]
         },
         {
-            "timestamp": 50.126,
+            "timestamp": 48.966,
             "notes_held": [
                 "D4"
             ]
         },
         {
-            "timestamp": 50.569,
+            "timestamp": 49.409,
             "notes_held": []
         },
         {
-            "timestamp": 50.712,
+            "timestamp": 49.552,
             "notes_held": [
                 "C#4"
             ]
         },
         {
-            "timestamp": 50.725,
+            "timestamp": 49.565,
             "notes_held": [
                 "A2",
                 "C#4"
             ]
         },
         {
-            "timestamp": 51.214,
+            "timestamp": 50.054,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 51.314,
+            "timestamp": 50.154,
             "notes_held": []
         },
         {
-            "timestamp": 51.335,
+            "timestamp": 50.175,
             "notes_held": [
                 "E4"
             ]
         },
         {
-            "timestamp": 51.851,
+            "timestamp": 50.691,
             "notes_held": []
         },
         {
-            "timestamp": 51.945,
+            "timestamp": 50.785,
             "notes_held": [
                 "D4"
             ]
         },
         {
-            "timestamp": 51.955,
+            "timestamp": 50.795,
             "notes_held": [
                 "B2",
                 "D4"
             ]
         },
         {
-            "timestamp": 52.446,
+            "timestamp": 51.286,
             "notes_held": [
                 "B2"
             ]
         },
         {
-            "timestamp": 52.57,
+            "timestamp": 51.41,
             "notes_held": [
                 "B2",
                 "D5"
             ]
         },
         {
-            "timestamp": 52.651,
+            "timestamp": 51.491,
             "notes_held": [
                 "D5"
             ]
         },
         {
-            "timestamp": 53.095,
+            "timestamp": 51.935,
             "notes_held": []
         },
         {
-            "timestamp": 53.192,
+            "timestamp": 52.032,
             "notes_held": [
                 "C#5"
             ]
         },
         {
-            "timestamp": 53.196,
+            "timestamp": 52.036,
             "notes_held": [
                 "C#5",
                 "F#2"
             ]
         },
         {
-            "timestamp": 53.656,
+            "timestamp": 52.496,
             "notes_held": [
                 "F#2"
             ]
         },
         {
-            "timestamp": 53.777,
+            "timestamp": 52.617,
             "notes_held": [
                 "F#2",
                 "F#5"
             ]
         },
         {
-            "timestamp": 54.096,
+            "timestamp": 52.936,
             "notes_held": [
                 "F#5"
             ]
         },
         {
-            "timestamp": 54.252,
+            "timestamp": 53.092,
             "notes_held": []
         },
         {
-            "timestamp": 54.384,
+            "timestamp": 53.224,
             "notes_held": [
                 "G5"
             ]
         },
         {
-            "timestamp": 54.406,
+            "timestamp": 53.246,
             "notes_held": [
                 "G2",
                 "G5"
             ]
         },
         {
-            "timestamp": 54.858,
+            "timestamp": 53.698,
             "notes_held": [
                 "G5"
             ]
         },
         {
-            "timestamp": 54.885,
+            "timestamp": 53.725,
             "notes_held": []
         },
         {
-            "timestamp": 55.019,
+            "timestamp": 53.859,
             "notes_held": [
                 "E5"
             ]
         },
         {
-            "timestamp": 55.516,
+            "timestamp": 54.356,
             "notes_held": []
         },
         {
-            "timestamp": 55.629,
+            "timestamp": 54.469,
             "notes_held": [
                 "F#5"
             ]
         },
         {
-            "timestamp": 55.661,
+            "timestamp": 54.501,
             "notes_held": [
                 "D2",
                 "F#5"
             ]
         },
         {
-            "timestamp": 56.138,
+            "timestamp": 54.978,
             "notes_held": [
                 "D2"
             ]
         },
         {
-            "timestamp": 56.172,
+            "timestamp": 55.012,
             "notes_held": []
         },
         {
-            "timestamp": 56.24,
+            "timestamp": 55.079,
             "notes_held": [
                 "D5"
             ]
         },
         {
-            "timestamp": 56.643,
+            "timestamp": 55.483,
             "notes_held": []
         },
         {
-            "timestamp": 56.854,
+            "timestamp": 55.694,
             "notes_held": [
                 "B4"
             ]
         },
         {
-            "timestamp": 56.858,
+            "timestamp": 55.698,
             "notes_held": [
                 "B4",
                 "G2"
             ]
         },
         {
-            "timestamp": 57.352,
+            "timestamp": 56.192,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 57.397,
+            "timestamp": 56.237,
             "notes_held": []
         },
         {
-            "timestamp": 57.472,
+            "timestamp": 56.312,
             "notes_held": [
                 "G4"
             ]
         },
         {
-            "timestamp": 57.891,
+            "timestamp": 56.731,
             "notes_held": []
         },
         {
-            "timestamp": 58.058,
+            "timestamp": 56.898,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 58.063,
+            "timestamp": 56.903,
             "notes_held": [
                 "A2",
                 "A4"
             ]
         },
         {
-            "timestamp": 58.577,
+            "timestamp": 57.417,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 58.691,
+            "timestamp": 57.531,
             "notes_held": [
                 "A2",
                 "G4"
             ]
         },
         {
-            "timestamp": 58.846,
+            "timestamp": 57.686,
             "notes_held": [
                 "G4"
             ]
         },
         {
-            "timestamp": 59.259,
+            "timestamp": 58.099,
             "notes_held": []
         },
         {
-            "timestamp": 59.325,
+            "timestamp": 58.165,
             "notes_held": [
                 "D3"
             ]
         },
         {
-            "timestamp": 59.331,
+            "timestamp": 58.171,
             "notes_held": [
                 "D3",
                 "F#4"
             ]
         },
         {
-            "timestamp": 59.871,
+            "timestamp": 58.711,
             "notes_held": [
                 "D3"
             ]
         },
         {
-            "timestamp": 59.948,
+            "timestamp": 58.788,
             "notes_held": []
         },
         {
-            "timestamp": 59.953,
+            "timestamp": 58.793,
             "notes_held": [
                 "D4"
             ]
         },
         {
-            "timestamp": 60.452,
+            "timestamp": 59.292,
             "notes_held": []
         },
         {
-            "timestamp": 60.551,
+            "timestamp": 59.391,
             "notes_held": [
                 "E4"
             ]
         },
         {
-            "timestamp": 60.57,
+            "timestamp": 59.41,
             "notes_held": [
                 "A2",
                 "E4"
             ]
         },
         {
-            "timestamp": 61.013,
+            "timestamp": 59.853,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 61.145,
+            "timestamp": 59.985,
             "notes_held": [
                 "A2",
                 "C#4"
             ]
         },
         {
-            "timestamp": 61.205,
+            "timestamp": 60.045,
             "notes_held": [
                 "C#4"
             ]
         },
         {
-            "timestamp": 61.631,
+            "timestamp": 60.471,
             "notes_held": []
         },
         {
-            "timestamp": 61.732,
+            "timestamp": 60.572,
             "notes_held": [
                 "B2"
             ]
         },
         {
-            "timestamp": 61.742,
+            "timestamp": 60.582,
             "notes_held": [
                 "B2",
                 "D4"
             ]
         },
         {
-            "timestamp": 62.228,
+            "timestamp": 61.068,
             "notes_held": [
                 "B2"
             ]
         },
         {
-            "timestamp": 62.319,
+            "timestamp": 61.159,
             "notes_held": [
                 "B2",
                 "F#4"
             ]
         },
         {
-            "timestamp": 62.784,
+            "timestamp": 61.624,
             "notes_held": [
                 "F#4"
             ]
         },
         {
-            "timestamp": 62.842,
+            "timestamp": 61.682,
             "notes_held": []
         },
         {
-            "timestamp": 62.925,
+            "timestamp": 61.765,
             "notes_held": [
                 "F#2"
             ]
         },
         {
-            "timestamp": 62.927,
+            "timestamp": 61.767,
             "notes_held": [
                 "A4",
                 "F#2"
             ]
         },
         {
-            "timestamp": 63.346,
+            "timestamp": 62.186,
             "notes_held": [
                 "F#2"
             ]
         },
         {
-            "timestamp": 63.518,
+            "timestamp": 62.358,
             "notes_held": [
                 "A3",
                 "F#2"
             ]
         },
         {
-            "timestamp": 63.853,
+            "timestamp": 62.693,
             "notes_held": [
                 "A3"
             ]
         },
         {
-            "timestamp": 63.923,
+            "timestamp": 62.763,
             "notes_held": []
         },
         {
-            "timestamp": 64.103,
+            "timestamp": 62.943,
             "notes_held": [
                 "B3"
             ]
         },
         {
-            "timestamp": 64.113,
+            "timestamp": 62.953,
             "notes_held": [
                 "B3",
                 "G2"
             ]
         },
         {
-            "timestamp": 64.605,
+            "timestamp": 63.445,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 64.742,
+            "timestamp": 63.582,
             "notes_held": [
                 "G2",
                 "G4"
             ]
         },
         {
-            "timestamp": 64.941,
+            "timestamp": 63.781,
             "notes_held": [
                 "G4"
             ]
         },
         {
-            "timestamp": 65.204,
+            "timestamp": 64.044,
             "notes_held": []
         },
         {
-            "timestamp": 65.324,
+            "timestamp": 64.164,
             "notes_held": [
                 "A4"
             ]
         },
         {
-            "timestamp": 65.786,
+            "timestamp": 64.626,
             "notes_held": []
         },
         {
-            "timestamp": 65.92,
+            "timestamp": 64.76,
             "notes_held": [
                 "F#4"
             ]
         },
         {
-            "timestamp": 66.503,
+            "timestamp": 65.343,
             "notes_held": []
         },
         {
-            "timestamp": 66.568,
+            "timestamp": 65.408,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 66.574,
+            "timestamp": 65.414,
             "notes_held": [
                 "D4",
                 "G2"
             ]
         },
         {
-            "timestamp": 66.951,
+            "timestamp": 65.791,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 67.192,
+            "timestamp": 66.032,
             "notes_held": [
                 "D4",
                 "G2"
             ]
         },
         {
-            "timestamp": 67.651,
+            "timestamp": 66.491,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 67.71,
+            "timestamp": 66.55,
             "notes_held": []
         },
         {
-            "timestamp": 67.859,
+            "timestamp": 66.699,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 67.86,
+            "timestamp": 66.7,
             "notes_held": [
                 "A2",
                 "D4"
             ]
         },
         {
-            "timestamp": 68.463,
+            "timestamp": 67.303,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 68.482,
+            "timestamp": 67.322,
             "notes_held": [
                 "A2",
                 "C#4"
             ]
         },
         {
-            "timestamp": 68.919,
+            "timestamp": 67.759,
             "notes_held": [
                 "C#4"
             ]
         },
         {
-            "timestamp": 69.214,
+            "timestamp": 68.054,
             "notes_held": []
         },
         {
-            "timestamp": 69.225,
+            "timestamp": 68.065,
             "notes_held": [
                 "D4"
             ]
         },
         {
-            "timestamp": 70.408,
+            "timestamp": 69.248,
             "notes_held": []
         },
         {
-            "timestamp": 70.464,
+            "timestamp": 69.304,
             "notes_held": [
                 "C#4"
             ]
         },
         {
-            "timestamp": 70.469,
+            "timestamp": 69.309,
             "notes_held": [
                 "A2",
                 "C#4"
             ]
         },
         {
-            "timestamp": 71.625,
+            "timestamp": 70.465,
             "notes_held": [
                 "C#4"
             ]
         },
         {
-            "timestamp": 71.666,
+            "timestamp": 70.506,
             "notes_held": []
         },
         {
-            "timestamp": 71.739,
+            "timestamp": 70.58,
             "notes_held": [
                 "B2"
             ]
         },
         {
-            "timestamp": 71.763,
+            "timestamp": 70.603,
             "notes_held": [
                 "B2",
                 "B3"
             ]
         },
         {
-            "timestamp": 73.002,
+            "timestamp": 71.842,
             "notes_held": [
                 "B2"
             ]
         },
         {
-            "timestamp": 73.01,
+            "timestamp": 71.85,
             "notes_held": []
         },
         {
-            "timestamp": 73.087,
+            "timestamp": 71.927,
             "notes_held": [
                 "D4"
             ]
         },
         {
-            "timestamp": 73.105,
+            "timestamp": 71.945,
             "notes_held": [
                 "D4",
                 "F#2"
             ]
         },
         {
-            "timestamp": 74.256,
+            "timestamp": 73.096,
             "notes_held": [
                 "F#2"
             ]
         },
         {
-            "timestamp": 74.287,
+            "timestamp": 73.127,
             "notes_held": []
         },
         {
-            "timestamp": 74.38,
+            "timestamp": 73.22,
             "notes_held": [
                 "B3"
             ]
         },
         {
-            "timestamp": 74.388,
+            "timestamp": 73.228,
             "notes_held": [
                 "B3",
                 "G2"
             ]
         },
         {
-            "timestamp": 75.491,
+            "timestamp": 74.331,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 75.51,
+            "timestamp": 74.35,
             "notes_held": []
         },
         {
-            "timestamp": 75.63,
+            "timestamp": 74.47,
             "notes_held": [
                 "A3"
             ]
         },
         {
-            "timestamp": 75.658,
+            "timestamp": 74.498,
             "notes_held": [
                 "A3",
                 "D2"
             ]
         },
         {
-            "timestamp": 76.785,
+            "timestamp": 75.625,
             "notes_held": [
                 "A3"
             ]
         },
         {
-            "timestamp": 77.02,
+            "timestamp": 75.86,
             "notes_held": []
         },
         {
-            "timestamp": 77.111,
+            "timestamp": 75.951,
             "notes_held": [
                 "B3"
             ]
         },
         {
-            "timestamp": 77.124,
+            "timestamp": 75.964,
             "notes_held": [
                 "B3",
                 "G2"
             ]
         },
         {
-            "timestamp": 78.187,
+            "timestamp": 77.027,
             "notes_held": [
                 "B3"
             ]
         },
         {
-            "timestamp": 78.296,
+            "timestamp": 77.136,
             "notes_held": []
         },
         {
-            "timestamp": 78.307,
+            "timestamp": 77.147,
             "notes_held": [
                 "C#4"
             ]
         },
         {
-            "timestamp": 78.312,
+            "timestamp": 77.152,
             "notes_held": [
                 "A2",
                 "C#4"
             ]
         },
         {
-            "timestamp": 79.084,
+            "timestamp": 77.924,
             "notes_held": [
                 "C#4"
             ]
         },
         {
-            "timestamp": 79.212,
+            "timestamp": 78.052,
             "notes_held": []
         },
         {
-            "timestamp": 79.498,
+            "timestamp": 78.338,
             "notes_held": [
                 "F#4"
             ]
         },
         {
-            "timestamp": 79.505,
+            "timestamp": 78.345,
             "notes_held": [
                 "D4",
                 "F#4"
             ]
         },
         {
-            "timestamp": 79.525,
+            "timestamp": 78.365,
             "notes_held": [
                 "D3",
                 "D4",
@@ -1838,37 +1838,37 @@
             ]
         },
         {
-            "timestamp": 80.536,
+            "timestamp": 79.376,
             "notes_held": [
                 "D3",
                 "D4"
             ]
         },
         {
-            "timestamp": 80.578,
+            "timestamp": 79.418,
             "notes_held": [
                 "D3"
             ]
         },
         {
-            "timestamp": 80.587,
+            "timestamp": 79.427,
             "notes_held": []
         },
         {
-            "timestamp": 80.778,
+            "timestamp": 79.618,
             "notes_held": [
                 "E4"
             ]
         },
         {
-            "timestamp": 80.791,
+            "timestamp": 79.631,
             "notes_held": [
                 "A2",
                 "E4"
             ]
         },
         {
-            "timestamp": 80.792,
+            "timestamp": 79.632,
             "notes_held": [
                 "A2",
                 "C#4",
@@ -1876,37 +1876,37 @@
             ]
         },
         {
-            "timestamp": 81.846,
+            "timestamp": 80.686,
             "notes_held": [
                 "A2",
                 "C#4"
             ]
         },
         {
-            "timestamp": 81.855,
+            "timestamp": 80.695,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 81.861,
+            "timestamp": 80.701,
             "notes_held": []
         },
         {
-            "timestamp": 82.023,
+            "timestamp": 80.863,
             "notes_held": [
                 "D4"
             ]
         },
         {
-            "timestamp": 82.029,
+            "timestamp": 80.869,
             "notes_held": [
                 "B2",
                 "D4"
             ]
         },
         {
-            "timestamp": 82.03,
+            "timestamp": 80.87,
             "notes_held": [
                 "B2",
                 "B3",
@@ -1914,37 +1914,37 @@
             ]
         },
         {
-            "timestamp": 82.934,
+            "timestamp": 81.774,
             "notes_held": [
                 "B3",
                 "D4"
             ]
         },
         {
-            "timestamp": 83.1,
+            "timestamp": 81.94,
             "notes_held": [
                 "D4"
             ]
         },
         {
-            "timestamp": 83.145,
+            "timestamp": 81.985,
             "notes_held": []
         },
         {
-            "timestamp": 83.295,
+            "timestamp": 82.135,
             "notes_held": [
                 "C#4"
             ]
         },
         {
-            "timestamp": 83.322,
+            "timestamp": 82.162,
             "notes_held": [
                 "C#4",
                 "F#3"
             ]
         },
         {
-            "timestamp": 83.324,
+            "timestamp": 82.164,
             "notes_held": [
                 "A3",
                 "C#4",
@@ -1952,60 +1952,60 @@
             ]
         },
         {
-            "timestamp": 84.271,
+            "timestamp": 83.111,
             "notes_held": [
                 "C#4",
                 "F#3"
             ]
         },
         {
-            "timestamp": 84.354,
+            "timestamp": 83.194,
             "notes_held": [
                 "F#3"
             ]
         },
         {
-            "timestamp": 84.447,
+            "timestamp": 83.287,
             "notes_held": []
         },
         {
-            "timestamp": 84.569,
+            "timestamp": 83.409,
             "notes_held": [
                 "B3"
             ]
         },
         {
-            "timestamp": 84.586,
+            "timestamp": 83.426,
             "notes_held": [
                 "B3",
                 "G3"
             ]
         },
         {
-            "timestamp": 85.383,
+            "timestamp": 84.223,
             "notes_held": [
                 "G3"
             ]
         },
         {
-            "timestamp": 85.737,
+            "timestamp": 84.577,
             "notes_held": []
         },
         {
-            "timestamp": 85.833,
+            "timestamp": 84.673,
             "notes_held": [
                 "D3"
             ]
         },
         {
-            "timestamp": 85.854,
+            "timestamp": 84.694,
             "notes_held": [
                 "A3",
                 "D3"
             ]
         },
         {
-            "timestamp": 85.857,
+            "timestamp": 84.697,
             "notes_held": [
                 "A3",
                 "D3",
@@ -2013,37 +2013,37 @@
             ]
         },
         {
-            "timestamp": 86.771,
+            "timestamp": 85.611,
             "notes_held": [
                 "D3",
                 "F#3"
             ]
         },
         {
-            "timestamp": 86.802,
+            "timestamp": 85.642,
             "notes_held": [
                 "D3"
             ]
         },
         {
-            "timestamp": 86.916,
+            "timestamp": 85.756,
             "notes_held": []
         },
         {
-            "timestamp": 87.095,
+            "timestamp": 85.935,
             "notes_held": [
                 "G3"
             ]
         },
         {
-            "timestamp": 87.101,
+            "timestamp": 85.941,
             "notes_held": [
                 "G2",
                 "G3"
             ]
         },
         {
-            "timestamp": 87.102,
+            "timestamp": 85.942,
             "notes_held": [
                 "B3",
                 "G2",
@@ -2051,37 +2051,37 @@
             ]
         },
         {
-            "timestamp": 88.142,
+            "timestamp": 86.982,
             "notes_held": [
                 "B3",
                 "G2"
             ]
         },
         {
-            "timestamp": 88.162,
+            "timestamp": 87.002,
             "notes_held": [
                 "G2"
             ]
         },
         {
-            "timestamp": 88.193,
+            "timestamp": 87.033,
             "notes_held": []
         },
         {
-            "timestamp": 88.378,
+            "timestamp": 87.218,
             "notes_held": [
                 "C#4"
             ]
         },
         {
-            "timestamp": 88.381,
+            "timestamp": 87.221,
             "notes_held": [
                 "A3",
                 "C#4"
             ]
         },
         {
-            "timestamp": 88.395,
+            "timestamp": 87.235,
             "notes_held": [
                 "A2",
                 "A3",
@@ -2089,20 +2089,20 @@
             ]
         },
         {
-            "timestamp": 89.21,
+            "timestamp": 88.05,
             "notes_held": [
                 "A2",
                 "C#4"
             ]
         },
         {
-            "timestamp": 89.277,
+            "timestamp": 88.117,
             "notes_held": [
                 "A2"
             ]
         },
         {
-            "timestamp": 89.282,
+            "timestamp": 88.122,
             "notes_held": []
         }
     ]
